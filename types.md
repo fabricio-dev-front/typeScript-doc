@@ -1,5 +1,3 @@
-- O tipo define o que podemos fazer com um dado.
-
 ## Métodos e propriedades mais frequêntes utilizados:
 
 # String
